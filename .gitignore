@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# TARKA Specific
+output/
+.pytest_cache/
+
+# Temporary / Patch Files (Root)
+patch_*.py
+test_*.py
+fix_widget.py
+update_agents.py
+update_widgets.py
+
+# Exception for tests directory
+!tests/
