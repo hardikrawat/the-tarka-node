@@ -1,5 +1,7 @@
 # TARKA — Agentic Graph-RAG OSINT Intelligence
 
+![TARKA TUI Dashboard](assets/screenshot.png)
+
 TARKA is a powerful OSINT (Open Source Intelligence) system that autonomously bridges logical gaps in intelligence data using local and cloud-based Large Language Models (LLMs). It builds a dynamic knowledge graph from various data sources, detects anomalies, and uses AI agents to infer missing connections and generate coherent intelligence theories.
 
 ## 🚀 Key Features
